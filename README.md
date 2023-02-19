@@ -1,10 +1,10 @@
 # Smart Irrigation using IoT🤖
 
-The importance of building an automation system for an office, home or field is increasing day-byday. Automation makes an efficient use of the electricity, water and reduces much of the wastage.
-Smart water sprinkler irrigation system makes an efficient use of water for the growth of plants by
-which your indoor plant may never suffer the lack of water problems. 
+![Alt Text](https://github.com/karanpatil77/Smart-irrigation-using-IOT/blob/main/SmartIrrigation.gif)
 
-![Diagram](https://hackster.imgix.net/uploads/attachments/301554/blockdiagramofsmartgardening_okr3gYb4gg.jpg?auto=compress&w=900&h=675&fit=min&fm=jpg)
+BScIT final year project presenting an automatic irrigation system using IOT. 
+The importance of building an automation system for an office, home or field is increasing day-byday. Automation makes an efficient use of the electricity, water and reduces much of the wastage.Smart water sprinkler irrigation system makes an efficient use of water for the growth of plants by which your indoor plant may never suffer the lack of water problems. 
+
 ## Requirents
 
 **Hardware:** Raspberry Pi Zero w, Soil Moisture Sensor, DHT11 (Temperature/Humidity Sensor), 5V Relay, 3-6V Mini Micro Submersible Pump, 5v Power Supply (Any USB Cable+ USB Wall Charger), Flexible Water Line
@@ -16,6 +16,12 @@ which your indoor plant may never suffer the lack of water problems.
 **OS:** Raspbian(linux), Windows
 
 **Other:** Thingspeak API, IFTTT
+
+## Circuit Diagram
+
+<img src="https://github.com/karanpatil77/Smart-irrigation-using-IOT/blob/main/GPIO.jpg" alt="Circuit Diagram" width="700" height="300" align="center">
+
+
 ## Installation
 
 Note: If you get the wiring exactly as described above, my code in the next section will work without any further modifications.
@@ -87,11 +93,6 @@ This will bring up a text editor. Add a single line that reads (and make sure to
 ```    
 Now when you reboot your pi, it should auto start the server.
 
-## Screenshots
-
-<img src="https://drive.google.com/file/d/123u_5PSvIxSquB1N8MHwGFq2QWnKfKoO/view?usp=share_link" alt="Data Science" width="500" height="444" align="right">
-[Image](https://katherineoelsner.com/)
-
 ## Optimizations
 
 - Added functional Temperature/Humidity Sensor.
@@ -109,7 +110,7 @@ Now when you reboot your pi, it should auto start the server.
 
 [@dalvitejs](https://www.github.com/dalvitejs)
 
-## Acknowledgements
+## References
 
 [Cyber Omelette](https://www.cyber-omelette.com/2017/09/automated-plant-watering.html)
 
