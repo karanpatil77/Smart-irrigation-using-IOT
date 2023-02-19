@@ -87,12 +87,11 @@ This will bring up a text editor. Add a single line that reads (and make sure to
 ```    
 Now when you reboot your pi, it should auto start the server.
 
+## Screenshots
 
-## Demo
-
-Insert te
-
+<img src="https://drive.google.com/file/d/123u_5PSvIxSquB1N8MHwGFq2QWnKfKoO/view?usp=share_link" alt="Data Science" width="500" height="444" align="right">
 [Image](https://katherineoelsner.com/)
+
 ## Optimizations
 
 - Added functional Temperature/Humidity Sensor.
@@ -100,10 +99,15 @@ Insert te
 - Added a toggle button to turn on/off the pump manually.
 - Made use of thingspeak API to show live graphical visualizations of Temperature and Humidity.
 - Used IFTTT to send an email whenever the temperature sensor reads more than 40°C. 
+
+## Conclusion
+- Using this system, one can save manpower, water to improve production and ultimately increase profit.
+- The smart plant system is feasible and cost effective for optimizing water resources for agricultural production.
+- The system would provide feedback control system which will monitor and control all the activities of irrigation system efficiently.
+
 ## Project Partner
 
 [@dalvitejs](https://www.github.com/dalvitejs)
-
 
 ## Acknowledgements
 
