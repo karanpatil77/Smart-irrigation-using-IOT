@@ -106,7 +106,7 @@ Now when you reboot your pi, it should auto start the server.
 - The smart plant system is feasible and cost effective for optimizing water resources for agricultural production.
 - The system would provide feedback control system which will monitor and control all the activities of irrigation system efficiently.
 
-## Project Partner
+## Contributors
 
 [@dalvitejs](https://www.github.com/dalvitejs)
 
@@ -116,4 +116,4 @@ Now when you reboot your pi, it should auto start the server.
 
 ## Feedback
 
-If you have any feedback or queries, please reach out to us at kpatil3595@fagmail.com
+If you have any feedback or queries, please reach out to us at kpatil3595@gmail.com
