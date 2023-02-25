@@ -1,6 +1,6 @@
 # Smart Irrigation using IoT🤖
 
-![Alt Text](https://github.com/karanpatil77/Smart-irrigation-using-IOT/blob/main/SmartIrrigation.gif)
+![Alt Text](https://github.com/karanpatil77/Smart-irrigation-using-IOT/blob/main/Images/SmartIrrigation.gif)
 
 BScIT final year project presenting an automatic irrigation system using IOT. 
 The importance of building an automation system for an office, home or field is increasing day-byday. Automation makes an efficient use of the electricity, water and reduces much of the wastage.Smart water sprinkler irrigation system makes an efficient use of water for the growth of plants by which your indoor plant may never suffer the lack of water problems. 
@@ -19,7 +19,7 @@ The importance of building an automation system for an office, home or field is 
 
 ## Circuit Diagram
 
-<img src="https://github.com/karanpatil77/Smart-irrigation-using-IOT/blob/main/GPIO.jpg" alt="Circuit Diagram" width="700" height="300" align="center">
+<img src="https://github.com/karanpatil77/Smart-irrigation-using-IOT/blob/main/Images/GPIO.jpg" alt="Circuit Diagram" width="700" height="300" align="center">
 
 
 ## Installation
