@@ -79,8 +79,6 @@ Now if you navigate to the ip address of your RPi, you should see a web dashboar
 
 Try clicking the buttons to make sure everything works as expected! If so, you're off to the races.
 
-here's another great tutorial I followed on flask + GPIO Run Website Automatically
-
 Finally, you probably want the website to auto start when the RPi gets turned on. This can be done using a tool called cronjob, which registers your website as a startup command.
 
 To do so, type:
