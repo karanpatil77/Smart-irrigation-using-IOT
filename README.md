@@ -96,8 +96,8 @@ Now when you reboot your pi, it should auto start the server.
 - Added functional Temperature/Humidity Sensor.
 - Added CSS elements to the wen page to make it look a bit better.
 - Added a toggle button to turn on/off the pump manually.
-- Made use of thingspeak API to show live graphical visualizations of Temperature and Humidity.
-- Used IFTTT to send an email whenever the temperature sensor reads more than 40°C. 
+- Made use of [thingspeak API](https://thingspeak.com/channels/746903/private_show) to show live graphical visualizations of Temperature and Humidity.
+- Used [IFTTT](https://ifttt.com/applets/aGdesW8g-temperature-around-your-plant-is-above-33-degrees) to send an email whenever the temperature sensor reads more than 40°C. 
 
 ## Conclusion
 - Using this system, one can save manpower, water to improve production and ultimately increase profit.
